@@ -1,4 +1,4 @@
-package in.geekofia.demo.introscreen;
+package in.geekofia.template.introscreen;
 
 public class ScreenItem {
 

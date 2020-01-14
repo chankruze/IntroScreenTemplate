@@ -1,4 +1,4 @@
-package in.geekofia.demo.introscreen;
+package in.geekofia.template.introscreen;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
@@ -6,7 +6,6 @@ import androidx.viewpager.widget.ViewPager;
 import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.TableLayout;
 
 import com.google.android.material.tabs.TabLayout;
 

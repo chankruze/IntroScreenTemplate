@@ -1,4 +1,4 @@
-package in.geekofia.demo.introscreen;
+package in.geekofia.template.introscreen;
 
 import androidx.appcompat.app.AppCompatActivity;
 
