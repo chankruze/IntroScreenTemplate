@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <!-- button -->
+    <color name="btn_grad_start">#4C84FF</color>
+    <color name="btn_grad_end">#10A3FE</color>
+
+    <!-- Tab & Screen Text -->
+    <color name="tab_indicator_gray">#C0C0C0</color>
+    <color name="intro_title">#000000</color>
+    <color name="intro_desc">#656565</color>
+</resources>
