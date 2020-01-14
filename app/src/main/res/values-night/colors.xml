@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FFFFFF</color>
-    <color name="colorPrimaryDark">#FFFFFF</color>
-    <color name="colorAccent">#FFFFFF</color>
 
     <!-- Intro -->
-    <color name="colorIntroPrimary">#FFFFFF</color>
+    <color name="colorIntroPrimary">#000000</color>
     <color name="colorIntroPrimaryDark">#FFFFFF</color>
     <color name="colorIntroAccent">#FFFFFF</color>
 
@@ -13,7 +10,7 @@
     <color name="btn_grad_start">#4C84FF</color>
     <color name="btn_grad_end">#10A3FE</color>
 
-    <color name="btn_text">@color/btn_grad_start</color>
+    <color name="btn_text">#FFFFFF</color>
 
     <!-- Tab & Screen Text -->
     <color name="tab_indicator_gray">#C0C0C0</color>
